@@ -44,6 +44,10 @@ ai-novel-writing/
 3. 然后 **AI 出初稿，你改和补**
 4. 最后 **去 AI 味**（不然读者一眼出戏）
 
+![AI 写小说完整工作流：理世界→定主线→一章一聊大纲→生成正文初稿→去AI味精修→自洽校验](assets/workflow-graphic.jpg)
+
+*AI 写小说六步工作流示意（详见 [`docs/workflow.md`](docs/workflow.md)）*
+
 详细步骤见 [`docs/workflow.md`](docs/workflow.md)。
 
 ## 快速开始
