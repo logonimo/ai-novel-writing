@@ -17,11 +17,12 @@ ai-novel-writing/
 ├── prompts/                 # 可复用的 AI 写小说提示词模板
 │   ├── world-building.md    # 世界观/力量体系设定
 │   ├── outline-chapter.md   # 单章大纲(分镜)生成
-│   ├── draft-prose.md       # 正文初稿生成
-│   ├── humanize.md          # 去 AI 味润色
-│   └── edit-revise.md       # 针对性修改(节奏/对话/细节)
+│   ├── draft-prose.md       # 正文初稿生成 + 去 AI 味
+│   └── continue-chapter.md  # 续写/接上一章（长篇连贯）
 ├── docs/
 │   ├── workflow.md          # 从 0 到上架的完整工作流
+│   ├── combat-power-guard.md# 人物战力不崩的方法
+│   ├── genre-choice.md      # 新手第一本选什么题材
 │   ├── tools-compare.md     # 主流 AI 写作工具对比
 │   └── pitfalls.md          # 避坑清单(踩过的雷)
 └── README.md
