@@ -1,5 +1,11 @@
 # AI Novel Writing · AI 写小说工具集
 
+![GitHub stars](https://img.shields.io/github/stars/logonimo/ai-novel-writing?style=flat&color=orange)
+![GitHub forks](https://img.shields.io/github/forks/logonimo/ai-novel-writing?style=flat&color=blue)
+![GitHub license](https://img.shields.io/github/license/logonimo/ai-novel-writing)
+
+> 喜欢的话点个 ⭐ Star，方便以后找到；也欢迎 **Fork** 一份拿去改，或开 PR 把你的经验补充进来。
+
 用 AI 从 0 到上架一部小说，我自己跑完 10 万字的真实经验沉淀。
 
 这不是一篇"教你赚钱"的营销文，而是把我在 AI 辅助写小说这条路上反复打磨、验证过的**提示词模板、完整工作流、工具对比**整理成的开源仓库。全部内容免费，欢迎 fork 使用，也欢迎 PR 补充你的经验。
