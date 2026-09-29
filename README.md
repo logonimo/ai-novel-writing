@@ -67,7 +67,7 @@ MIT License. 内容可自由使用、修改、分发（署名来源即可）。
 
 ## 与我联系 / Demo
 
-- 项目主页：**https://xingyuai.vip**（在线 demo，我自建的 AI 创作站）
+- 项目主页：**https://xingyuai.vip** （在线 demo，我自建的 AI 创作站）
 - 欢迎提 [Issue](https://github.com/logonimo/ai-novel-writing/issues) 或 PR，把你的踩坑 / 模板贡献进来。
 
 ---
