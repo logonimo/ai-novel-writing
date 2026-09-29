@@ -20,19 +20,37 @@
 
 ```
 ai-novel-writing/
-├── prompts/                 # 可复用的 AI 写小说提示词模板
-│   ├── world-building.md    # 世界观/力量体系设定
-│   ├── outline-chapter.md   # 单章大纲(分镜)生成
-│   ├── draft-prose.md       # 正文初稿生成 + 去 AI 味
-│   └── continue-chapter.md  # 续写/接上一章（长篇连贯）
-├── docs/
-│   ├── workflow.md          # 从 0 到上架的完整工作流
-│   ├── combat-power-guard.md# 人物战力不崩的方法
-│   ├── genre-choice.md      # 新手第一本选什么题材
-│   ├── tools-compare.md     # 主流 AI 写作工具对比
-│   └── pitfalls.md          # 避坑清单(踩过的雷)
+├── prompts/                     # 可复用的 AI 写小说提示词模板
+│   ├── world-building.md        # 世界观/力量体系设定
+│   ├── outline-chapter.md       # 单章大纲(分镜)生成
+│   ├── draft-prose.md           # 正文初稿生成 + 去 AI 味
+│   └── continue-chapter.md      # 续写/接上一章（长篇连贯）
+├── docs/                        # 方法论文档（按主题簇组织）
+│   ├── workflow.md              # 从 0 到上架的完整工作流
+│   ├── outline-three-layers.md  # 大纲三层结构：主线—支线—钩子
+│   ├── humanize-checklist.md    # 去 AI 味改稿清单（5 动作 + 检测信号）
+│   ├── emotional-pacing.md      # 情绪节奏与爽点落位（AI 的短板）
+│   ├── combat-power-guard.md    # 人物战力不崩的方法
+│   ├── genre-choice.md          # 新手第一本选什么题材
+│   ├── tools-compare.md         # 主流 AI 写作工具对比（横向体验）
+│   ├── tool-scene-guide.md      # 按场景挑工具（场景 → 能力对照）
+│   └── pitfalls.md              # 避坑清单(踩过的雷)
+├── assets/                      # 示意图（工作流图、改前改后对照图）
 └── README.md
 ```
+
+## 文档速查（按主题簇）
+
+| 主题 | 从这里开始 |
+|---|---|
+| 整体流程 | [`docs/workflow.md`](docs/workflow.md) |
+| 搭大纲、防止写崩 | [`docs/outline-three-layers.md`](docs/outline-three-layers.md) |
+| 去 AI 味、改稿 | [`docs/humanize-checklist.md`](docs/humanize-checklist.md) |
+| 情绪节奏与爽点 | [`docs/emotional-pacing.md`](docs/emotional-pacing.md) |
+| 设定自洽、战力不崩 | [`docs/combat-power-guard.md`](docs/combat-power-guard.md) |
+| 选题材 | [`docs/genre-choice.md`](docs/genre-choice.md) |
+| 挑工具 | [`docs/tool-scene-guide.md`](docs/tool-scene-guide.md) · [`docs/tools-compare.md`](docs/tools-compare.md) |
+| 避坑 | [`docs/pitfalls.md`](docs/pitfalls.md) |
 
 ## 核心思路（一句话版）
 
